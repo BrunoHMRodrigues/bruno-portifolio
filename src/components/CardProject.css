@@ -1,0 +1,5 @@
+.container-project {
+  width: 1000px;
+  min-height: 400px;
+  border: 15px double white;
+}
