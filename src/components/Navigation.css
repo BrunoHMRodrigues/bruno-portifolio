@@ -1,0 +1,21 @@
+.container-navigation {
+  height: 50px;
+}
+
+.navigation {
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+  margin: 5px;
+  transition: all 0.3s;
+}
+
+.navigation:hover {
+  font-size: 30px;
+  color: lightblue;
+  text-decoration: underline;
+}
+
+.list-navigation {
+  list-style-type: none;
+}
