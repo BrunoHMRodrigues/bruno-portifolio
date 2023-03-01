@@ -1,0 +1,13 @@
+.technologies-list {
+  height: 150px;
+}
+
+.technologies-list li img {
+  height: 35px;
+  margin: 5px;
+  transition: height 0.5s;
+}
+
+.technologies-list li img:hover {
+  height: 55px;
+}

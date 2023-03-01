@@ -1,0 +1,21 @@
+.name {
+  font-size: 35px;
+  font-style: italic;
+}
+
+.formation-symbol {
+  height: 40px;
+}
+
+.hr-aboutme {
+  margin: 10px;
+  border: 1px solid rgb(122, 122, 228);
+  height: 2px;
+  background-color: silver;
+  box-shadow: 5px 3px 10px white;
+}
+
+.badges {
+  height: 60px;
+  background-color: white;
+}

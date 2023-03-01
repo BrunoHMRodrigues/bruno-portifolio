@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.aboutme-page {
+  background-color: black;
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutme-main {
+  background-color: rgba(63, 63, 63, 0.5);
+  height: max-content;
+  max-width: 1200px;
+}
