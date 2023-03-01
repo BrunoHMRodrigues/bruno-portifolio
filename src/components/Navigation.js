@@ -6,7 +6,6 @@ import '../styles/generalStyles.css';
 import './Navigation.css';
 
 function Navigation() {
-
   return (
     <nav className="container-navigation">
       <ol className="d-flex justify-content-center align-items-center p-0 list-navigation">

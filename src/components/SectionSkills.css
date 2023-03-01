@@ -1,0 +1,18 @@
+.li-emphasis-high {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.li-emphasis-medium {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.skills-list li {
+  transition: font-size 0.4s;
+}
+
+.skills-list li:hover {
+  font-size: 40px;
+  font-weight: 900;
+}
